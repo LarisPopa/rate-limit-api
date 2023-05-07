@@ -1,0 +1,2 @@
+export const WINDOW_SIZE_IN_MINUTES = 10;
+export const MAX_WINDOW_REQUEST_COUNT = 5;
